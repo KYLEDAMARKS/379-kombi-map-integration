@@ -1,0 +1,23 @@
+{
+  "sourceCommit": "bdd8d16ca075c2095b384f0c8f301219749992a5",
+  "bundleVersion": "0.1.2",
+  "bundleSha256": "497dee43196cc99c2878ace2c330c964375b4261965099c6a0c50ebad1d8c64a",
+  "components": [
+    {
+      "id": "cluster-render",
+      "version": "0.2.0",
+      "releaseUrl": "https://github.com/robertnisipeanu/idrive-apps/releases/download/cluster-render%400.2.0/cluster-render%400.2.0.tgz",
+      "archiveSha256": "dbc9c9c4d551437075aff05d92b11c732586a6ad4e20436e04b0c07355c69bc9",
+      "nativeSha256": "1496dc95501e6fd10f16d31c39c6f4965c7bf7fdd0f44a1c12a26e3cc0653e77",
+      "nativeUnmodified": true
+    },
+    {
+      "id": "waze-on-cluster",
+      "version": "0.6.0",
+      "releaseUrl": "https://github.com/robertnisipeanu/idrive-apps/releases/download/waze-on-cluster%400.6.0/waze-on-cluster%400.6.0.tgz",
+      "archiveSha256": "4754b9b1a627de6dbaa9595adab1ecde450224e3d8d8c909c504b37f43369c5a",
+      "nativeSha256": "141e151e02288917d04df96ec8de12811e2df83cf00b1a658cc5ff963f25fb27",
+      "nativeUnmodified": true
+    }
+  ]
+}
